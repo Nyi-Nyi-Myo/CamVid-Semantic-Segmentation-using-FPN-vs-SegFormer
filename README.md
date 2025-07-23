@@ -95,7 +95,7 @@ Sea-floor/Rocks     (SR): IoU = 0.6832
 - Old Model Prediction vs. Final Model Prediction  
 
 📌 Example:
-![Visualization Example](suim-firstvsfinal-unet++.png)  
+![Visualization Example](CamVid-test-FPNvsSegFormer.png)  
 
 The model outputs of **testing set** are visualized with:
 
