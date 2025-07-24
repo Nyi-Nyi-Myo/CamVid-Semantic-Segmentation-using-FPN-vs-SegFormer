@@ -152,9 +152,9 @@ This project is intended for **academic research and educational use** only. Ple
 
 ---
 
-<img src="https://github.com/user-attachments/assets/e45924c3-0412-4d49-aa03-96dbd8a42b7b" width="300">
-<img src="https://github.com/user-attachments/assets/aded60e9-5008-44f7-ae90-d15a87f07e47" width="300">
-<img src="https://github.com/user-attachments/assets/2442b719-adf1-44aa-8889-2dc669008e6b" width="300">
+<img src="https://github.com/user-attachments/assets/e45924c3-0412-4d49-aa03-96dbd8a42b7b" width="280">
+<img src="https://github.com/user-attachments/assets/aded60e9-5008-44f7-ae90-d15a87f07e47" width="280">
+<img src="https://github.com/user-attachments/assets/2442b719-adf1-44aa-8889-2dc669008e6b" width="280">
 
 ![excavatorvideo1exp](https://github.com/user-attachments/assets/e45924c3-0412-4d49-aa03-96dbd8a42b7b)
 ![excavatorvideo2exp](https://github.com/user-attachments/assets/aded60e9-5008-44f7-ae90-d15a87f07e47)
