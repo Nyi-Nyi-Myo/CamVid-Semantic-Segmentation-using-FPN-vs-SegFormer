@@ -102,9 +102,6 @@ The model outputs of **testing set** are visualized with:
 - **Color-coded masks**
 - **Overlay with Class name labels**  
 
-📌 Example:
-![Visualization Example](SUIM-testset-1-10.png)  
-
 ---
 
 ## 🚀 How to Run Inference
